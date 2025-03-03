@@ -6,6 +6,8 @@ A basic web calculator that performs **addition** and **subtraction** using a **
 
 ## **🚀 Setup & Run**
 
+Download all the files in Simple Calculator folder
+
 ### **1️⃣ Install Dependencies**
 npm install (in terminal)
 
